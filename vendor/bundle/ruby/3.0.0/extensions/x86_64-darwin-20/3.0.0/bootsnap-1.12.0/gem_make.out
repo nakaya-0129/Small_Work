@@ -1,0 +1,15 @@
+current directory: /Users/nakayako/Desktop/Small_Work/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.12.0/ext/bootsnap
+/Users/nakayako/.rbenv/versions/3.0.1/bin/ruby -I /Users/nakayako/.rbenv/versions/3.0.1/lib/ruby/site_ruby/3.0.0 -r ./siteconf20220703-2140-ycoq24.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nakayako/Desktop/Small_Work/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.12.0/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/nakayako/Desktop/Small_Work/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.12.0/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/nakayako/Desktop/Small_Work/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.12.0/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20220703-2140-egxtpc/bootsnap
